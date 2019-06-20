@@ -1,0 +1,5 @@
+com\jpa\repository\OneBRepository.class
+com\jpa\repository\OneARepository.class
+com\jpa\DemoApplication.class
+com\jpa\entity\OneA.class
+com\jpa\entity\OneB.class

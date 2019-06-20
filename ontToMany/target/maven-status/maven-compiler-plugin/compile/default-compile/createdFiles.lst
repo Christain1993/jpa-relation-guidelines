@@ -1,0 +1,5 @@
+com\jpa\entity\One.class
+com\jpa\repository\ManyRepository.class
+com\jpa\repository\OneRepository.class
+com\jpa\DemoApplication.class
+com\jpa\entity\Many.class
